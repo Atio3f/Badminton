@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Smash Long au Badminton</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Le Smash Long au Badminton</h1>
+    </header>
+    <nav>
+        <a href="#qu-est-ce-que-le-smash-long">Qu'est-ce que le Smash Long ?</a>
+        <a href="#technique">Technique</a>
+        <a href="#strategie">Stratégie</a>
+        <a href="#video">Vidéo</a>
+    </nav>
+    <section id="qu-est-ce-que-le-smash-long">
+        <h2>Qu'est-ce que le Smash Long ?</h2>
+        <p>Le smash long est l'une des frappes les plus puissantes et spectaculaires au badminton. Il consiste à frapper le volant avec une grande force et une trajectoire descendante, dans le but de le faire atterrir profondément dans le camp adverse.</p>
+    </section>
+    <section id="technique">
+        <h2>Technique</h2>
+        <p>La technique du smash long nécessite une bonne préparation, une coordination précise et une frappe puissante. Voici les étapes clés :</p>
+        <ol>
+            <li>Positionnez-vous correctement sous le volant en mouvement.</li>
+            <li>Préparez votre raquette en arrière pour générer de la puissance.</li>
+            <li>Frappez le volant avec un mouvement fluide et rapide, en utilisant la force de votre bras et de votre poignet.</li>
+            <li>Terminez votre geste avec une rotation du corps pour maximiser la puissance et la précision.</li>
+        </ol>
+    </section>
+    <section id="strategie">
+        <h2>Stratégie</h2>
+        <p>Le smash long peut être utilisé de différentes manières dans le jeu :</p>
+        <ul>
+            <li>Comme coup gagnant pour marquer des points rapidement.</li>
+            <li>Comme outil de pression pour forcer l'adversaire à reculer et ouvrir des espaces sur le terrain.</li>
+            <li>Comme réponse aux trajectoires hautes et lentes de l'adversaire, pour prendre l'initiative dans l'échange.</li>
+        </ul>
+    </section>
+    <section id="video">
+        <h2>Vidéo</h2>
+        <p>Voici une vidéo illustrant la technique du smash long :</p>
+        <!-- Insérer ici un lien vers une vidéo YouTube ou une autre plateforme -->
+    </section>
+</body>
+</html>
